@@ -36,17 +36,6 @@ button:hover {
     margin-top: 20px;
 }
 
-.valid {
-    color: #008000;
-}
-
-.invalid {
-    color: #ff4500;
-}
-
-.emoji {
-    font-size: 1.5em;
-}
 
 .circle {
     display: inline-block;
