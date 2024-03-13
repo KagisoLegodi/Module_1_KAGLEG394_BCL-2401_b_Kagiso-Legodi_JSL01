@@ -7,11 +7,11 @@ function validateSyntax() {
 
     // Test if the input matches the pattern
     if (pattern.test(input)) {
-        result = 'Valid syntax  <span class="valid"></span>'; // Set result message for valid input
+        result = 'Valid syntax  <span class="circle"></span>'; // Set result message for valid input
     } else {
-        result = 'Invalid syntax  <span class="invalid"></span>'; // Set result message for invalid input
+        result = 'Invalid syntax  <span class="circle1"></span>'; // Set result message for invalid input
     }
 
     // Display the result
-    document.getElementById('result').innerText = result;
+    document.getElementById('result').innerHTML = result;
 }

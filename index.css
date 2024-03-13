@@ -37,19 +37,11 @@ button:hover {
 }
 
 .valid {
-    display: inline-block;
-    width: 20px;
-    height: 20px;
-    border-radius: 50%;
-    background-color: #008000;
+    color: #008000;
 }
 
 .invalid {
-    display: inline-block;
-    width: 20px;
-    height: 20px;
-    border-radius: 50%;
-    background-color: #ff0000;
+    color: #ff4500;
 }
 
 .emoji {
@@ -57,13 +49,17 @@ button:hover {
 }
 
 .circle {
-    
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: #008000;
 }
 
 .circle1 {
     display: inline-block;
-    width: 20px;
-    height: 20px;
+    width: 25px;
+    height: 25px;
     border-radius: 50%;
     background-color: #ff0000;
 }
