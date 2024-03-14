@@ -32,4 +32,3 @@ To use the password validation system:
 - HTML
 - CSS
 - JavaScript
-
