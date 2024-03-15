@@ -17,7 +17,7 @@ This project implements a simple syntax validation system using JavaScript, HTML
 To use the Syntax validation system:
 
 1. Open the `index.html` file in a web browser.
-2. Enter a password in the input field.
+2. Enter a syntax in the input field.
 3. Click the "Validate Syntax" button.
 4. The system will display whether the syntax is valid or invalid, along with visual feedback in the form of colored circles.
 
