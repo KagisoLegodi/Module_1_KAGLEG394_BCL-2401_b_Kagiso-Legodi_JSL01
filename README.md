@@ -19,7 +19,7 @@ To use the Syntax validation system:
 1. Open the `index.html` file in a web browser.
 2. Enter a password in the input field.
 3. Click the "Validate Syntax" button.
-4. The system will display whether the password is strong or weak, along with visual feedback in the form of colored circles.
+4. The system will display whether the syntax is valid or invalid, along with visual feedback in the form of colored circles.
 
 ## Files
 
